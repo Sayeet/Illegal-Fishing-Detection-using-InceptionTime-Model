@@ -1,6 +1,6 @@
 # Illegal-Fishing-Detection
 
-This is a InceptionTime model that can detect illgeal fishing using the MMSI data from a ship. 
+This is a InceptionTime model that can detect illegal fishing using the MMSI data from a ship.
 
 If you have any questions or would like to get in touch please email me at: ss@tambo.li
 
