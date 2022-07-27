@@ -8,7 +8,7 @@ If you have any questions or would like to get in touch please email me at: ss@t
 If you would like to learn more about the model you can read the corresponding article here: 
 https://medium.com/@saeed_tamboli/detecting-illegal-fishing-using-ai-af1268aac5cf
 
-Here is the accompanying video:
+Here is the accompanying video: https://www.youtube.com/watch?v=yDvM37OtKfo
 
 Here is where I got the data form:
 https://github.com/GlobalFishingWatch/training-data 
